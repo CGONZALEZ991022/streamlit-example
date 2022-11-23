@@ -1,3 +1,11 @@
-altair
 pandas
+numpy
+matplotlib
 streamlit
+plotly
+multiprocessing
+warnings
+seaborn 
+datetime 
+datetime
+skimage 
